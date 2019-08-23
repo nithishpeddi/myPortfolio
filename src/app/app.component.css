@@ -1,0 +1,38 @@
+.row {
+    background-image: url('https://www.google.com/search?q=nature+pictures&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi6sbGY4abiAhVwh-AKHWQqBEkQ_AUIDigB&biw=1536&bih=706#imgrc=nYJQfRu5GDnPfM:')
+}
+#sideNav{
+    text-align: center;
+    position: fixed;
+    padding-top: 8em;
+    /* top: 0;
+    left: 0; */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 25%;
+    height: 100vh;
+}
+.navbar-collapse{
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+}
+.bg-primary {
+    background-color: #5038bd!important;
+}
+.img-profile{
+    height:8em;
+    width:8em;
+    border-radius:50%;
+}
+.scroll-link{
+    color:white;
+    font-weight: bold;
+}
