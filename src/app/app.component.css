@@ -17,6 +17,16 @@
     width: 25%;
     height: 100vh;
 }
+.para{
+    font-size: 20px;
+    font-weight: 400;
+  
+}
+
+/* .resume-section {
+    background-image:url("http://hdwpro.com/wp-content/uploads/2019/02/Waterfall-Natural-Photo.jpeg");
+} */
+
 .navbar-collapse{
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
